@@ -1,0 +1,132 @@
+
+*{
+margin:0;
+padding: 0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+
+    background-color: #E4F9F5;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.img-modi{
+    width:100px ;
+    height:120px ;
+    border:3px solid white ;
+    border-radius: 50%;
+    float: left;
+    
+}
+.data{
+    float:left;
+    padding: 30px;
+    color: teal;
+    font-weight: bold;
+}
+.data2{
+    float:right;
+    padding: 25px;
+   
+}
+.data2 a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.data2 a:hover{
+    color:tomato;
+    text-decoration: underline;
+}
+.clear{
+    clear: both;
+}
+.hr1
+{
+border:3px black solid;
+width: 100%;
+margin:20px auto;
+border-bottom: none;
+}
+.hr2{
+    border:2px black solid;
+    width: 100%;
+    margin:20px auto;
+    border-bottom: none;
+
+
+}
+.part-one{
+    float:left;
+    width:30%;
+    color: teal;
+}
+.part-two{
+    float: left;
+    width:30%;
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+}
+.work1{
+
+    color: teal;
+    width:30%;
+    float:left;
+}
+.work2{
+    color: teal;
+    width:70%;
+    float:left;
+    font-weight: 700;
+    
+}
+.work3{
+    color: black;
+    width:70%;
+    float:right;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.edu1{
+    color: black;
+    width:35%;
+    float:left;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.edu2{
+    color: black;
+    width:35%;
+    float:right;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.edu1-col{
+    color: teal;
+    font-weight: 700;
+}
+.ano{
+    background-color: black;
+    max-width: 1000px;
+    padding: 20px;
+    text-align: center;
+  
+}
+.ano a{
+    text-decoration: none;
+    color: white;
+    margin:  20px;
+}
+.ano p
+{
+    color: white;
+}
